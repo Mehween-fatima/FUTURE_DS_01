@@ -55,7 +55,7 @@ Interactive filters for Category and Sub-Category are included to enable dynamic
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview) IMG_20251226_161202.jpg
+![Dashboard Preview](IMG_20251226_161202.jpg)
 
 ---
 
