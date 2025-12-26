@@ -1,2 +1,2 @@
-# FUTURE_DS_01
+# Superstore-Sales-Dashboard
 Data Science &amp; Analytics Internship tasks and projects – Future Interns
